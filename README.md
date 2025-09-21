@@ -1,3 +1,1 @@
-Projeto Jogo Número Secreto.
-JavaScrip
-Teste com Git/Github
+#Jogo do Número Secreto (Primeiro Projeto)
